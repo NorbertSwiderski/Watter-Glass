@@ -1,12 +1,12 @@
 {
-  "name": "WTF: PWA",
-  "short_name": "WTF: PWA",
-  "theme_color": "#000000",
-  "background_color": "#000000",
+  "name": "Watter Glass",
+  "short_name": "Glass",
+  "theme_color": "#1168af",
+  "background_color": "#1168af",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/wtf-gulp-starter/",
-  "start_url": "/wtf-gulp-starter/",
+  "scope": "/Water-Glass/",
+  "start_url": "/Watter-Glass/",
   "icons": [
     {
       "src": "assets/pwa/icons/icon-72x72.png",
