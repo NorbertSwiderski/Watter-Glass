@@ -1,15 +1,32 @@
 @import "_normalize";
 @import "_variables";
 
-
 html {
   box-sizing: border-box;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
 body {
-  
+  background: darkgray;
+  text-align: center;
+}
+.application__structure {
+  width: 385px;
+  height: 812px;
+  background: #3767ad;
+  margin: 0 auto;
+}
+.water__glass {
+  margin-top: 150px;
+}
+.glass__number {
+  font-size: 112px;
+  position: absolute;
+  left: 46%;
+  bottom: 20%;
 }
